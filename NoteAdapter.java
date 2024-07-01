@@ -53,3 +53,4 @@ public class NoteAdapter extends FirestoreRecyclerAdapter<Note, NoteAdapter.Note
         }
     }
 }
+
