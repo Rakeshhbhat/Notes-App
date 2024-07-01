@@ -34,3 +34,4 @@ public class Note {
         this.timestamp = timestamp;
     }
 }
+
