@@ -96,3 +96,4 @@ public class NoteDetailsActivity extends AppCompatActivity {
         });
     }
 }
+
